@@ -1,6 +1,6 @@
 ## Hospital Management System
 
-This is a hospital management system developed using Python, Django, HTML, CSS, and JavaScript. The system allows hospital staff to manage patient records, schedule appointments, manage medical history, and billing.
+This is a hospital management system developed using Python, Flask, HTML, CSS, and JavaScript. The system allows hospital staff to manage patient records, schedule appointments, manage medical history, and billing.
 
 ### Features
 
