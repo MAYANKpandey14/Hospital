@@ -4,12 +4,23 @@ This is a hospital management system developed using Python, Django, HTML, CSS, 
 
 ### Features
 
-Login and registration system for staff and patients
-Dashboard for hospital staff
-Add, view, and edit patient records
-Schedule, view, and edit appointments
-Manage patient medical history and billing
-Generate and download patient reports
+* Login and registration system for staff and patients
+* Dashboard for hospital staff
+* Add, view, and edit patient records
+* Schedule, view, and edit appointments
+* Manage patient medical history and billing
+
+### Requirements Modules
+
+* Download latest version of [Python.](https://www.python.org/)
+* Install XAMPP from [here.](https://www.apachefriends.org/)
+##### Open command prompt and install these below modules:-
+
+1. pip install flask
+2. pip install Flask-SQLAlchemy
+3. pip install Flask-Mail
+4. pip install mysqlclient
+5. pip install Flask-Login
 
 ### Usage
 
